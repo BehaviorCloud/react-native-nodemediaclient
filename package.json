@@ -2,7 +2,7 @@
   "name": "react-native-nodemediaclient",
   "version": "0.1.2",
   "description": "React Native nodemediaclient",
-  "homepage": "https://github.com/takeerdevs/react-native-nodemediaclient#readme"
+  "homepage": "https://github.com/takeerdevs/react-native-nodemediaclient#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
